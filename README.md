@@ -13,6 +13,9 @@
 
 ## [Webpack](https://github.com/guangxiao/blog/labels/Webpack)
 
+1. [webpack配置文件详解之一：webpack.base.config.js详解](https://github.com/guangxiao/blog/issues/3)
+2. [webpack配置文件详解之一：webpack.dev.config.js详解](https://github.com/guangxiao/blog/issues/4)
+
 ## [Fis](https://github.com/guangxiao/blog/labels/Fis)
 
 ## [移动端H5](https://github.com/guangxiao/blog/labels/%E7%A7%BB%E5%8A%A8%E7%AB%AFH5)
