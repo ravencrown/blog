@@ -22,6 +22,9 @@
 
 ## [移动端H5](https://github.com/guangxiao/blog/labels/%E7%A7%BB%E5%8A%A8%E7%AB%AFH5)
 
+1. [移动端touch事件介绍](https://github.com/guangxiao/blog/issues/17)
+2. [移动端获取点击坐标](https://github.com/guangxiao/blog/issues/18)
+
 ## [Nginx](https://github.com/guangxiao/blog/labels/Nginx)
 
 1. [Nginx的编译安装](https://github.com/guangxiao/blog/issues/6)
