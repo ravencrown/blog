@@ -12,6 +12,7 @@
 ## [Vue](https://github.com/guangxiao/blog/labels/Vue)
 
 1. [Vue项目文件介绍](https://github.com/guangxiao/blog/issues/5)
+2. [极简的双向数据绑定原理](https://github.com/guangxiao/blog/issues/21)
 
 ## [Webpack](https://github.com/guangxiao/blog/labels/Webpack)
 
@@ -39,10 +40,14 @@
 10. [Gzip配置](https://github.com/guangxiao/blog/issues/15)
 11. [Nginx做负载均衡器以及proxy缓存配置](https://github.com/guangxiao/blog/issues/16)
 
-
 ## [浏览器兼容性](https://github.com/guangxiao/blog/labels/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%85%BC%E5%AE%B9%E6%80%A7)
 
 1. [移动端body上overflow:hidden失效的解决方法](https://github.com/guangxiao/blog/issues/1)
+
+## [面试专题](https://github.com/guangxiao/blog/labels/%E9%9D%A2%E8%AF%95%E4%B8%93%E9%A2%98)
+
+1. [javascript严格模式](https://github.com/guangxiao/blog/issues/19)
+2. [setTimeout和setInterval](https://github.com/guangxiao/blog/issues/20)
 
 ## 高Star Github项目（前端）
 
@@ -61,4 +66,3 @@
 13. [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 14. [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
 15. [腾讯Alloyteam代码规范](https://github.com/AlloyTeam/CodeGuide)
-16. 
