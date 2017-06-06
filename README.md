@@ -1,7 +1,7 @@
 # blog
 陈广宵的个人博客
 
-订阅请点 watch, 收藏请点 star
+如果对您有帮助，请Star，谢谢，让我有更好的动力去分享更多的知识
 
 ## [前端基础杂文](https://github.com/guangxiao/blog/labels/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E6%9D%82%E6%96%87)
 
@@ -49,6 +49,7 @@
 1. [javascript严格模式](https://github.com/guangxiao/blog/issues/19)
 2. [setTimeout和setInterval](https://github.com/guangxiao/blog/issues/20)
 3. [事件代理](https://github.com/guangxiao/blog/issues/23)
+4. [JavaScript New命令的原理](https://github.com/guangxiao/blog/issues/24)
 
 ## [CSS/CSS3](https://github.com/guangxiao/blog/labels/CSS%2FCSS3)
 
