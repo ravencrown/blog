@@ -55,20 +55,58 @@
 
 1. [BFC](https://github.com/guangxiao/blog/issues?q=is%3Aopen+label%3ACSS%2FCSS3)
 
-## 高Star Github项目（前端）
+## 前端博客类 - Github项目
 
-1. [移动前端开发经验指南](https://github.com/doyoe/trip#user-content-compatibility)
-2. [全栈工程师培训材料](https://github.com/ruanyf/jstraining)
-3. [全栈增长工程师实战](https://github.com/phodal/growth-in-action)
-4. [全栈增长工程师指南](https://github.com/phodal/growth-ebook)
-5. [一个全栈增长工程师的练手项目集](https://github.com/phodal/ideabook)
-6. [React Demo](https://github.com/ruanyf/react-demos)
-7. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-8. [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
-9. [CSS魔法](https://github.com/cssmagic/blog)
-10. [前端技能汇总](https://github.com/JacksonTian/fks)
-11. [微信相关的 js 操作：分享、网络、菜单](https://github.com/sofish/wechat.js)
-12. [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
-13. [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
-14. [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
-15. [腾讯Alloyteam代码规范](https://github.com/AlloyTeam/CodeGuide)
+1. [我的职业是前端工程师](https://github.com/phodal/fe)
+2. [腾讯Alloyteam代码规范](https://github.com/AlloyTeam/CodeGuide)
+3. [全栈工程师培训材料](https://github.com/ruanyf/jstraining)
+4. [全栈增长工程师实战](https://github.com/phodal/growth-in-action)
+5. [全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+6. [前端技能汇总](https://github.com/JacksonTian/fks)
+7. [CSS魔法](https://github.com/cssmagic/blog)
+8. [移动前端开发经验指南](https://github.com/doyoe/trip#user-content-compatibility)
+9. [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+10. [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
+11. [现代前端技术解析](https://github.com/ouvens/frontend-system-map)
+12. [前端技能汇总](https://github.com/JacksonTian/fks)
+13. [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+14. [前端工程讨论](https://github.com/fouber/blog)
+
+## Nodejs - github开源项目
+
+1. [一起学 Node.js](https://github.com/nswbmw/N-blog)
+2. [《深入浅出Node.js》的相关代码](https://github.com/JacksonTian/diveintonode_examples)
+
+## Vue - github开源项目
+
+1. [vue-router1.0 中文文档](https://github.com/vuejs/vue-router/tree/1.0/docs/zh-cn)
+2. [vue-router2.0 中文文档](http://router.vuejs.org/zh-cn/)
+3. [vuex1.0 中文文档](https://github.com/vuejs/vuex/tree/1.0/docs/zh-cn)
+4. [vuex2.0 中文文档](https://vuex.vuejs.org/zh-cn/)
+5. [基于 vue2 + vuex 构建一个具有45个页面的大型单页面应用](https://github.com/bailicangdu/vue2-elm)
+6. [vue2 + vue-router + vuex 入门项目](https://github.com/bailicangdu/vue2-happyfri)
+7. [基于 vue + element-ui 的后台管理系统](https://github.com/bailicangdu/vue2-manage)
+8. [Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天](https://github.com/bailichen/vue-weixin)
+
+## JavaScript - github开源项目
+
+1. [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial)
+2. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+3. [微信相关的 js 操作：分享、网络、菜单](https://github.com/sofish/wechat.js)
+4. [HEAD标签解析](https://github.com/joshbuchea/HEAD)
+5. [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
+
+## 源码解析 - github开源项目
+
+1. [Jquery源码解析](https://github.com/JsAaron/jQuery)
+2. [Underscore.js 源码解读 & 系列文章](https://github.com/hanzichi/underscore-analysis)
+
+## 前端大牛github
+
+1. [阮一峰](https://github.com/ruanyf)
+2. [尤雨溪](https://github.com/yyx990803)
+3. [bailicangdu - vue and nodejs](https://github.com/bailicangdu)
+4. [CSS魔法哥](https://github.com/cssmagic)
+5. [nswbmw - nodejs](https://github.com/nswbmw)
+6. [phodal - 全栈(growth)](https://github.com/phodal)
+7.
