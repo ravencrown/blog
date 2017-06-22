@@ -1,7 +1,10 @@
 # blog
 陈广宵的个人博客
 
-如果对您有帮助，请Star，谢谢，让我有更好的动力去分享更多的知识
+如果对您有帮助，请 Star，谢谢，让我有更好的动力去分享更多的知识
+
+最近一直闲着，在 Github 泡汤的时间也多了，在写一些东西之前，建议先阅读阮一峰老师的 [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+非常有指导的作用。
 
 ## [前端基础杂文](https://github.com/guangxiao/blog/labels/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E6%9D%82%E6%96%87)
 
@@ -76,6 +79,7 @@
 
 1. [一起学 Node.js](https://github.com/nswbmw/N-blog)
 2. [《深入浅出Node.js》的相关代码](https://github.com/JacksonTian/diveintonode_examples)
+3. [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 
 ## Vue - github开源项目
 
@@ -109,4 +113,5 @@
 4. [CSS魔法哥](https://github.com/cssmagic)
 5. [nswbmw - nodejs](https://github.com/nswbmw)
 6. [phodal - 全栈(growth)](https://github.com/phodal)
-7.
+
+## 前端推荐书籍
