@@ -16,6 +16,7 @@
 
 1. [Vue项目文件介绍](https://github.com/guangxiao/blog/issues/5)
 2. [极简的双向数据绑定原理](https://github.com/guangxiao/blog/issues/21)
+3. [Vue 生命周期](https://github.com/guangxiao/blog/issues/25)
 
 ## [Webpack](https://github.com/guangxiao/blog/labels/Webpack)
 
@@ -115,3 +116,11 @@
 6. [phodal - 全栈(growth)](https://github.com/phodal)
 
 ## 前端推荐书籍
+
+1. [《JavaScript: The Good Parts》](../books/javascript_the_good_parts_zh.pdf)
+2. [《Speaking JavaScript》 ]
+
+
+## 有趣的网站
+
+1. [360度高清晰无死角可任意放大缩小的网站，让你站在难以企及的视角观察壮美绝伦的风光](http://www.airpano.ru/files/Best-Sights/2-2)
