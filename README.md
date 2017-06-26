@@ -117,7 +117,7 @@
 
 ## 前端推荐书籍
 
-1. [《JavaScript: The Good Parts》](../books/javascript_the_good_parts_zh.pdf)
+1. [《JavaScript: The Good Parts》](/books/javascript_the_good_parts_zh.pdf)
 2. [《Speaking JavaScript》 ]
 
 
