@@ -115,12 +115,8 @@
 5. [nswbmw - nodejs](https://github.com/nswbmw)
 6. [phodal - 全栈(growth)](https://github.com/phodal)
 
-## 前端推荐书籍
+## 前端工程化
 
-1. [《JavaScript: The Good Parts》](/books/javascript_the_good_parts_zh.pdf)
-2. [《Speaking JavaScript》 ]
+1. [当我们谈论前端工程化时，我们谈论什么](https://www.xbroder.com/2018/07/01/web_engineer/web-engineer-01/)
 
 
-## 有趣的网站
-
-1. [360度高清晰无死角可任意放大缩小的网站，让你站在难以企及的视角观察壮美绝伦的风光](http://www.airpano.ru/files/Best-Sights/2-2)
