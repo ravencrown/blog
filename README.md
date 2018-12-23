@@ -6,6 +6,11 @@
 最近一直闲着，在 Github 泡汤的时间也多了，在写一些东西之前，建议先阅读阮一峰老师的 [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 非常有指导的作用。
 
+## 小程序
+
+1. [大型小程序如何快速调试？](https://github.com/ravencrown/blog/issues/35)
+
+
 ## [前端基础杂文](https://github.com/guangxiao/blog/labels/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E6%9D%82%E6%96%87)
 
 1. [Cookie & Web Storage的区别](https://github.com/guangxiao/blog/issues/2)
