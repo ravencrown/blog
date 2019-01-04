@@ -17,6 +17,9 @@
 
 ## [Nodejs](https://github.com/guangxiao/blog/labels/Nodejs)
 
+1. [Node 应用场景](https://www.xbroder.com/2018/10/25/node/node-01/)
+2. [Node 编程基础](https://www.xbroder.com/2018/10/27/node/node-02/)
+
 ## [Vue](https://github.com/guangxiao/blog/labels/Vue)
 
 1. [Vue项目文件介绍](https://github.com/guangxiao/blog/issues/5)
