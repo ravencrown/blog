@@ -66,6 +66,8 @@
 ## [CSS/CSS3](https://github.com/guangxiao/blog/labels/CSS%2FCSS3)
 
 1. [BFC](https://github.com/guangxiao/blog/issues?q=is%3Aopen+label%3ACSS%2FCSS3)
+2. [flex 语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+3. [flex 实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
 ## 前端博客类 - Github项目
 
