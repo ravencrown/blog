@@ -128,5 +128,10 @@
 ## 前端工程化
 
 1. [当我们谈论前端工程化时，我们谈论什么](https://www.xbroder.com/2018/07/01/web_engineer/web-engineer-01/)
+2. [前端模块化指引与实践](https://www.xbroder.com/2018/07/05/web_engineer/web-engineer-02/)
+3. [关于包管理器你应该知道的](https://www.xbroder.com/2018/07/07/web_engineer/web-engineer-03/)
+4. [使用 Webpack 构建应用及最新特性解析](https://www.xbroder.com/2018/07/10/web_engineer/web-engineer-04/)
+5. [摆脱冗长的等待——构建流程优化](https://www.xbroder.com/2018/07/13/web_engineer/web-engineer-05/)
+6. [在去哪儿网如何做大型项目工程化](https://www.xbroder.com/2018/07/28/web_engineer/web-engineer-06/)
 
 
