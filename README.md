@@ -26,6 +26,10 @@
 2. [极简的双向数据绑定原理](https://github.com/guangxiao/blog/issues/21)
 3. [Vue 生命周期](https://github.com/guangxiao/blog/issues/25)
 
+## [Vue 源码解析]
+
+1. [vue-flow](https://www.xbroder.com/2018/05/09/vue/vue_analysis_01/)
+
 ## [Webpack](https://github.com/guangxiao/blog/labels/Webpack)
 
 1. [webpack配置文件详解之一：webpack.base.config.js详解](https://github.com/guangxiao/blog/issues/3)
