@@ -26,7 +26,7 @@
 2. [极简的双向数据绑定原理](https://github.com/guangxiao/blog/issues/21)
 3. [Vue 生命周期](https://github.com/guangxiao/blog/issues/25)
 
-## [Vue 源码解析]
+## Vue 源码解析
 
 1. [vue-flow](https://www.xbroder.com/2018/05/09/vue/vue_analysis_01/)
 
@@ -72,6 +72,8 @@
 1. [BFC](https://github.com/guangxiao/blog/issues?q=is%3Aopen+label%3ACSS%2FCSS3)
 2. [flex 语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 3. [flex 实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+4. [CSS 1px border](https://www.xbroder.com/2019/01/03/css/css1px/)
+5. [CSS 根据设备像素比引用不同比例的图片](https://www.xbroder.com/2019/01/03/css/bgimage/)
 
 ## 前端博客类 - Github项目
 
