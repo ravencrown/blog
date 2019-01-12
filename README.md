@@ -10,6 +10,9 @@
 
 1. [大型小程序如何快速调试？](https://github.com/ravencrown/blog/issues/35)
 
+## ES6
+
+1. [babel](https://www.xbroder.com/2018/12/12/reprint/rep01/)
 
 ## [前端基础杂文](https://github.com/guangxiao/blog/labels/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E6%9D%82%E6%96%87)
 
