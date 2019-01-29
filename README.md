@@ -9,6 +9,7 @@
 ## 小程序
 
 1. [大型小程序如何快速调试？](https://github.com/ravencrown/blog/issues/35)
+2. [小程序预览的时候遇到 Error: /app.json not found](https://github.com/ravencrown/blog/issues/37)
 
 ## ES6
 
