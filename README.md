@@ -46,6 +46,7 @@
 
 1. [移动端touch事件介绍](https://github.com/guangxiao/blog/issues/17)
 2. [移动端获取点击坐标](https://github.com/guangxiao/blog/issues/18)
+3. [二维码识别，先出现图片保存，再出现二维码识别](https://github.com/ravencrown/blog/issues/39)
 
 ## [Nginx](https://github.com/guangxiao/blog/labels/Nginx)
 
