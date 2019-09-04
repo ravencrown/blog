@@ -6,25 +6,13 @@
 1. [HTTP 系列之 前世今生](https://github.com/ravencrown/blog/issues/45)
 2. [HTTP 系列之 协议入门](https://github.com/ravencrown/blog/issues/43)
 3. [HTTP 系列之 浏览器发起HTTP请求的典型场景](https://github.com/ravencrown/blog/issues/44)
-2. [HTTP 系列之 HTTP是个啥鬼东西？](https://github.com/ravencrown/blog/issues/46)
-2. [HTTP 系列之 HTTP协议格式](https://github.com/ravencrown/blog/issues/47)
-2. [HTTP 系列之 与HTTP相关的各种概念](https://github.com/ravencrown/blog/issues/48)
-2. [HTTP 系列之 与HTTP相关的各种协议](https://github.com/ravencrown/blog/issues/49)
-2. [HTTP 系列之 域名解析](https://github.com/ravencrown/blog/issues/50)
-2. [HTTP 系列之 报文结构](https://github.com/ravencrown/blog/issues/51)
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
-2. []()
+4. [HTTP 系列之 HTTP是个啥鬼东西？](https://github.com/ravencrown/blog/issues/46)
+5. [HTTP 系列之 HTTP协议格式](https://github.com/ravencrown/blog/issues/47)
+6. [HTTP 系列之 与HTTP相关的各种概念](https://github.com/ravencrown/blog/issues/48)
+7. [HTTP 系列之 与HTTP相关的各种协议](https://github.com/ravencrown/blog/issues/49)
+8. [HTTP 系列之 域名解析](https://github.com/ravencrown/blog/issues/50)
+9. [HTTP 系列之 报文结构](https://github.com/ravencrown/blog/issues/51)
+10. [HTTP 系列之 连接管理](https://github.com/ravencrown/blog/issues/58)
 
 
 
@@ -44,6 +32,13 @@
 
 
 ## TypeScript 系列
+
+1. [TS 系列之 强类型和弱类型语言](https://github.com/ravencrown/blog/issues/52)
+1. [TS 系列之 静态类型语言和动态类型语言](https://github.com/ravencrown/blog/issues/53)
+1. [TS 系列之 基本类型](https://github.com/ravencrown/blog/issues/54)
+1. [TS 系列之 枚举类型](https://github.com/ravencrown/blog/issues/55)
+1. [TS 系列之 对象类型接口](https://github.com/ravencrown/blog/issues/56)
+1. [TS 系列之 函数类型接口](https://github.com/ravencrown/blog/issues/57)
 
 ## ES 系列
 
