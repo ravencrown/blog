@@ -34,15 +34,20 @@
 ## TypeScript 系列
 
 1. [TS 系列之 强类型和弱类型语言](https://github.com/ravencrown/blog/issues/52)
-1. [TS 系列之 静态类型语言和动态类型语言](https://github.com/ravencrown/blog/issues/53)
-1. [TS 系列之 基本类型](https://github.com/ravencrown/blog/issues/54)
-1. [TS 系列之 枚举类型](https://github.com/ravencrown/blog/issues/55)
-1. [TS 系列之 对象类型接口](https://github.com/ravencrown/blog/issues/56)
-1. [TS 系列之 函数类型接口](https://github.com/ravencrown/blog/issues/57)
-
-## ES 系列
+2. [TS 系列之 静态类型语言和动态类型语言](https://github.com/ravencrown/blog/issues/53)
+3. [TS 系列之 基本类型](https://github.com/ravencrown/blog/issues/54)
+4. [TS 系列之 枚举类型](https://github.com/ravencrown/blog/issues/55)
+5. [TS 系列之 对象类型接口](https://github.com/ravencrown/blog/issues/56)
+6. [TS 系列之 函数类型接口](https://github.com/ravencrown/blog/issues/57)
 
 ## JS系列
+
+1. [JS 系列之 JavaScript中的数据是如何存储？](https://github.com/ravencrown/blog/issues/60)
+1. [JS 系列之 JavaScript中的垃圾回收机制](https://github.com/ravencrown/blog/issues/61)
+1. [JS 系列之 V8是如何执行一段JavaScript代码的？](https://github.com/ravencrown/blog/issues/62)
+
+
+## ES 系列
 
 ## Vue 系列
 
