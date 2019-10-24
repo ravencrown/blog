@@ -40,6 +40,13 @@
 4. [TS 系列之 枚举类型](https://github.com/ravencrown/blog/issues/55)
 5. [TS 系列之 对象类型接口](https://github.com/ravencrown/blog/issues/56)
 6. [TS 系列之 函数类型接口](https://github.com/ravencrown/blog/issues/57)
+7. [TS 系列之 类](https://github.com/ravencrown/blog/issues/66)
+8. [TS 系列之 类与接口](https://github.com/ravencrown/blog/issues/67)
+9. [TS 系列之 泛型](https://github.com/ravencrown/blog/issues/68)
+10. [TS 系列之 类型检查机制：类型推断](https://github.com/ravencrown/blog/issues/69)
+11. [TS 系列之 类型检查机制：类型兼容性](https://github.com/ravencrown/blog/issues/70)
+
+
 
 ## JS系列
 
